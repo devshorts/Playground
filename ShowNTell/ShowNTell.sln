@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowNTell", "ShowNTell\ShowNTell.csproj", "{26F181CA-E494-47CD-9C43-2E130AE925A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onoffswitch.NetDuinoUtils", "NetDuinoUtils\Onoffswitch.NetDuinoUtils.csproj", "{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F181CA-E494-47CD-9C43-2E130AE925A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F181CA-E494-47CD-9C43-2E130AE925A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F181CA-E494-47CD-9C43-2E130AE925A5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{26F181CA-E494-47CD-9C43-2E130AE925A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F181CA-E494-47CD-9C43-2E130AE925A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F181CA-E494-47CD-9C43-2E130AE925A5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

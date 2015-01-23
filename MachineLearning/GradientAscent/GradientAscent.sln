@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradientAscent", "GradientAscent\GradientAscent.csproj", "{127123EF-D7B0-4662-84F9-41CB25F39972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradientAscent.Tests", "GradientAscent.Tests\GradientAscent.Tests.csproj", "{B35F59FF-1245-443E-ACFF-087FF2D49EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127123EF-D7B0-4662-84F9-41CB25F39972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127123EF-D7B0-4662-84F9-41CB25F39972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127123EF-D7B0-4662-84F9-41CB25F39972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127123EF-D7B0-4662-84F9-41CB25F39972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35F59FF-1245-443E-ACFF-087FF2D49EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35F59FF-1245-443E-ACFF-087FF2D49EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35F59FF-1245-443E-ACFF-087FF2D49EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35F59FF-1245-443E-ACFF-087FF2D49EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

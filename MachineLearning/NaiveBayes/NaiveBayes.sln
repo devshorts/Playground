@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveBayes", "NaiveBayes\NaiveBayes.csproj", "{8C03F92A-D3DC-4E5D-BA78-A95397AC7051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveBayes.Tests", "NaiveBayes.Test\NaiveBayes.Tests.csproj", "{79F25105-675A-43A3-A5E9-6DF2DC4B75ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C03F92A-D3DC-4E5D-BA78-A95397AC7051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C03F92A-D3DC-4E5D-BA78-A95397AC7051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C03F92A-D3DC-4E5D-BA78-A95397AC7051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C03F92A-D3DC-4E5D-BA78-A95397AC7051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F25105-675A-43A3-A5E9-6DF2DC4B75ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F25105-675A-43A3-A5E9-6DF2DC4B75ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F25105-675A-43A3-A5E9-6DF2DC4B75ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F25105-675A-43A3-A5E9-6DF2DC4B75ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
