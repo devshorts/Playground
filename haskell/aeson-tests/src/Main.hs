@@ -5,9 +5,11 @@ import qualified Data.ByteString.Lazy as BSL
 import Data.Text
 import Data.Text.Encoding
 import Types
+
 process :: IO String
 process = getLine
 
+getJson :: ToJSON a => a -> String
 getJson d = unpack $ decodeUtf8 $ BSL.toStrict (encodePretty d)
 
 main = do
@@ -19,6 +21,6 @@ main = do
 
   let person = Person firstName lastName
 
-  putStr $ getJson person
+  putStrLn $ getJson person
 
   return ()
